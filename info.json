@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1036.9283999999998,
+    "videos": [
         "Piero - Luna de Miel en Arizona [Canción Oficial] ®-ARP80_vPHSc.mp4",
         "Paté de fuá - El valsecito de don Serafin-09eksiHLDXM.mp4",
         "Sin Pena Ni Gloria-RkWPP6R0sJA.mp4",
@@ -105,7 +106,5 @@
         "PRIDE.-J87pJrxvJ5E.mp4",
         "Pill Box Tales-xyI-Smg9GPU.mp4",
         "Los Hermanos Vega  La Playa-H6Ly5KKQYY4.mp4"
-    ],
-    "id": "q1",
-    "total_size": 988.8920039062501
+    ]
 }
