@@ -310,6 +310,13 @@
             "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/Leo Dan - Celia (En Vivo) ft. Palito Ortega-AT-hf9AjAf4.mp4"
         },
         {
+            "id": "1lyu1KKwC74",
+            "name": "The Verve - Bitter Sweet Symphony [1lyu1KKwC74].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/q1/videos/The Verve - Bitter Sweet Symphony [1lyu1KKwC74].mp4",
+            "size": 38.844279,
+            "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/The Verve - Bitter Sweet Symphony [1lyu1KKwC74].mp4"
+        },
+        {
             "id": "k7f96SRf8QU",
             "name": "The Residents - Fingertips-k7f96SRf8QU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/q1/videos/The Residents - Fingertips-k7f96SRf8QU.mp4",
@@ -422,6 +429,13 @@
             "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/Stevie Ray Vaughan & Double Trouble - I'm Leaving You (Commit A Crime) (Video)-vB6hNQv-Bh8.mp4"
         },
         {
+            "id": "NE5gBkJi5wE",
+            "name": "Crass - Major General Despair [NE5gBkJi5wE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/q1/videos/Crass - Major General Despair [NE5gBkJi5wE].mp4",
+            "size": 14.077558999999999,
+            "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/Crass - Major General Despair [NE5gBkJi5wE].mp4"
+        },
+        {
             "id": "ARP80_vPHSc",
             "name": "Piero - Luna de Miel en Arizona [Canci\u00f3n Oficial] \u00ae-ARP80_vPHSc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/q1/videos/Piero - Luna de Miel en Arizona [Canci\u00f3n Oficial] \u00ae-ARP80_vPHSc.mp4",
@@ -441,6 +455,13 @@
             "path": "/home/alanmatzumiya/Videos/container/q1/videos/The Verve - Bitter Sweet Symphony (Official Music Video)-1lyu1KKwC74.mp4",
             "size": 24.539037999999998,
             "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/The Verve - Bitter Sweet Symphony (Official Music Video)-1lyu1KKwC74.mp4"
+        },
+        {
+            "id": "Zy6qI2u7fXg",
+            "name": "La Polla Records - Guaschibo [Zy6qI2u7fXg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/q1/videos/La Polla Records - Guaschibo [Zy6qI2u7fXg].mp4",
+            "size": 3.445743,
+            "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/La Polla Records - Guaschibo [Zy6qI2u7fXg].mp4"
         },
         {
             "id": "xyI-Smg9GPU",
@@ -681,5 +702,5 @@
             "url": "https://github.com/circuitalmynds/music_q1/raw/main/videos/Snow Patrol - Chasing Cars (Official Video)-GemKqzILV4w.mp4"
         }
     ],
-    "total_size": 975.3057019999999
+    "total_size": 1031.6732829999999
 }
